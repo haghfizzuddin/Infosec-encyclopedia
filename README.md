@@ -1,6 +1,6 @@
 # Infosec-encyclopedia
 
-This is an ongoing compilation of resources we have found helpful and tools we use.
+This is an ongoing compilation of resources that are found helpful and tools suitable.
 If you're new to InfoSec and are looking for a concentrated list of resources to get started, check out [Cybersecurity Starter](https://github.com/haghfizzuddin/Cybersecurity-starter).
 
 ## Table of Contents
